@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "@types/three": "^0.162.0",
     "three": "^0.162.0"
   }
 }
